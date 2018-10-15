@@ -1,6 +1,1 @@
 嗨，你好世界！
-Git is a distributed version control system.
-Git is free software.
-1
-
-是的发送到发好多福利
